@@ -1,0 +1,3 @@
+estimation noyaux gaussiens
+EM algorithm
+kmeans
